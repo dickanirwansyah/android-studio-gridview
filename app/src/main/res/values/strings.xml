@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Example Gridview</string>
+    <string name="nama">Nama : *</string>
+    <string name="harga">Harga : *</string>
+    <string name="masukkan_nama">masukkan nama</string>
+    <string name="masukkan_harga">masukkan harga</string>
+    <string name="browse">Pilih Gambar</string>
+    <string name="add">add</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="nama_produk">nama produk</string>
+    <string name="harga_produk">harga produk</string>
+</resources>
